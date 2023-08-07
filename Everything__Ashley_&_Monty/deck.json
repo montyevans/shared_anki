@@ -1111,6 +1111,16 @@
             "guid": "D@EOWoz@02",
             "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I love you&nbsp;{{c1::too}}",
+                ""
+            ],
+            "guid": "g_9S+sf+.}",
+            "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
+            "tags": []
         }
     ],
     "reviewLimit": null,
