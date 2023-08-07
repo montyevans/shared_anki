@@ -548,6 +548,7 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "paste-77cc186feb87ace4d2e8a55809bf208ad63b8b44.jpg",
                 "paste-d6a2be0531956d8dfad305f768388f6ca14e8b7f.jpg"
             ],
             "name": "Science",
@@ -721,6 +722,46 @@
                         "<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8078152/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8078152/</a>"
                     ],
                     "guid": "u1H03jRD=~",
+                    "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vitamin {{c1::B12}} is the most common deficiency for vegetarians: it's found in&nbsp;{{c2::meat, dairy, and eggs}}.",
+                        ""
+                    ],
+                    "guid": "eZ@t72vTmU",
+                    "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Over a 20 year period, each additional portion of daily fruit or vegetable reduced mortality risk by&nbsp;{{c1::5%}}, up to around&nbsp;{{c2::5 portions}}. Most of this protective effect is due to decreased risk of&nbsp;{{c3::cardiovascular disease}} and {{c3::some cancers}}.",
+                        "<img src=\"paste-77cc186feb87ace4d2e8a55809bf208ad63b8b44.jpg\"><br><br><a href=\"https://www.bmj.com/content/349/bmj.g4490\">https://www.bmj.com/content/349/bmj.g4490</a>"
+                    ],
+                    "guid": "IKP;VAElVi",
+                    "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vegetables have&nbsp;{{c1::about the same}} fiber per serving as fruit, but&nbsp;{{c1::more}} per calorie.<br><br>Fruits are slightly higher in&nbsp;{{c2::antioxidants}}, and&nbsp;<i>a couple</i>&nbsp;more studies have found health benefits from {{c3::vegetables}} than&nbsp;{{c3::fruits}}, but both are generally treated the same in research.&nbsp;",
+                        "<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6506980/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6506980/</a>"
+                    ],
+                    "guid": "mK&wkT?2:f",
+                    "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beyond \"fiber\", there are hundreds of different phytochemicals in fruits and vegetables. None of them are well understood, and the phytochemicals don't break down nicely across fruit / vegetable lines.<br><br>From a nutritional perspective, fruit is essentially {{c1::a sugary vegetable}} with a&nbsp;<i>slightly</i>&nbsp;different&nbsp;{{c1::nutrient profile}}. If you're worried about {{c2::overall sugar intake}} or {{c2::blood sugar spikes}}, maybe swap some in vegetables for some fruit.",
+                        "<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6506980/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6506980/</a>"
+                    ],
+                    "guid": "AuoGa+exEl",
                     "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
                     "tags": []
                 }
