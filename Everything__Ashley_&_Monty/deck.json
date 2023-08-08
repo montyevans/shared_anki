@@ -764,6 +764,36 @@
                     "guid": "AuoGa+exEl",
                     "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zinc studies are fuzzy about whether the 75mg is the mass of {{c1::zinc salt}} or&nbsp;{{c1::elemental zinc}}, but they are usually reporting&nbsp;{{c1::elemental zinc}} mass.<br><br>In zinc&nbsp;{{c2::acetate}}, elemental zinc is about&nbsp;{{c3::one third}} of total mass.",
+                        ""
+                    ],
+                    "guid": "nZs63F[Pp&",
+                    "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hemila did a follow-up RCT in 2020 to confirm the results of his zinc meta-analysis.<br><br>He found that&nbsp;{{c1::zinc did not help}}, and theorized this might be because:<br><br>{{c2::His zinc tablets dissolved too quickly (10 mins vs half an hour)}}<br>{{c4::Treatment should be at least 90mg of zinc (his patients actually took ~60mg)}}<br>{{c3::Treatment should be longer than 5 days (zinc patients got worse after their treatment stopped)}}",
+                        "<a href=\"https://bmjopen.bmj.com/content/bmjopen/10/1/e031662.full.pdf\">https://bmjopen.bmj.com/content/bmjopen/10/1/e031662.full.pdf</a>"
+                    ],
+                    "guid": "JyPL72i<CQ",
+                    "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Consuming over&nbsp;{{c1::50mg}} of zinc over a long period of time can interfere with&nbsp;{{c2::copper absorbsion and immune function}}.<br><br>Over a short period of time, it might cause&nbsp;{{c3::nausea / stomach pain}}",
+                        "<a href=\"https://www.nutritionletter.tufts.edu/ask-experts/q-i-take-50-milligrams-of-zinc-daily-but-it-looks-like-you-should-take-only-40-milligrams-per-day-is-it-ok-to-continue-what-are-the-consequences-of-too-much-zinc/\">https://www.nutritionletter.tufts.edu/ask-experts/q-i-take-50-milligrams-of-zinc-daily-but-it-looks-like-you-should-take-only-40-milligrams-per-day-is-it-ok-to-continue-what-are-the-consequences-of-too-much-zinc/</a>"
+                    ],
+                    "guid": "c]yfBFnV`h",
+                    "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
+                    "tags": []
                 }
             ],
             "reviewLimit": null,
