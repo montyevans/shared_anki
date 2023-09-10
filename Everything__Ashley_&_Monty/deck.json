@@ -54,7 +54,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "A London - NY flight releases ~{{c1::1t}} of CO<span style=\"font-size: 16.6667px;\"><sub>2</sub></span>",
+                        "<u>Carbon Research:</u> <br>A London - NY flight releases ~{{c1::1t}} of CO<span style=\"font-size: 16.6667px;\"><sub>2</sub></span>",
                         ""
                     ],
                     "guid": "k)&#gQ-bD}",
@@ -64,7 +64,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "The production of a t-shirt takes ~{{c1::7kg}} of CO2e.",
+                        "<u>Carbon Research:</u><br>The production of a t-shirt takes ~{{c1::7kg}} of CO2e.",
                         ""
                     ],
                     "guid": "s%f#aGBsqR",
@@ -74,7 +74,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "An average car produces ~{{c1::0.5kg}} of CO2e per mile.",
+                        "<u>Carbon Research:</u><br>An average car produces ~{{c1::0.5kg}} of CO2e per mile.",
                         ""
                     ],
                     "guid": "j2}=PT^cSc",
@@ -84,7 +84,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Natural gas produces ~{{c1::0.5kg}} CO2e per kwh; coal is about {{c1::1kg}}.",
+                        "<u>Carbon Research:<br></u>Natural gas produces ~{{c1::0.5kg}} CO2e per kwh; coal is about {{c1::1kg}}.",
                         ""
                     ],
                     "guid": "g0^hBwTAry",
@@ -94,7 +94,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "A 10-minute hot shower uses (very roughly) ~{{c1::4kg}} CO2e<br><br>Treating the water: {{c1::1kg}} CO2e<br>Heating the water: {{c1::2kg}} CO2e<br>Electricity cost of running the shower: {{c1::1kg}} CO2e<br><br>Taking a bath uses about&nbsp;{{c2::twice}} this amount.",
+                        "<u>Carbon Research:&nbsp;</u><br>A 10-minute hot shower uses (very roughly) ~{{c1::4kg}} CO2e<br><br>Treating the water: {{c1::1kg}} CO2e<br>Heating the water: {{c1::2kg}} CO2e<br>Electricity cost of running the shower: {{c1::1kg}} CO2e<br><br>Taking a bath uses about&nbsp;{{c2::twice}} this amount.",
                         "<b><br>Sources:</b><br><br><a href=\"https://www.aquatell.ca/pages/how-household-water-usage-contributes-to-co2-emissions\">https://www.aquatell.ca/pages/how-household-water-usage-contributes-to-co2-emissions</a><br><a href=\"https://wint.ai/blog/the-carbon-footprint-of-water/\">https://wint.ai/blog/the-carbon-footprint-of-water/</a>"
                     ],
                     "guid": "eO?PS!%GCv",
@@ -104,7 +104,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Old Growth / Primary Forests are almost always carbon sinks, because {{c1::basically none of them (with the possible exception of the Pacific Northwest) have achieved the theoretical maximum biomass}}.",
+                        "<u>Carbon Research:</u><br>Old Growth / Primary Forests are almost always carbon sinks, because {{c1::basically none of them (with the possible exception of the Pacific Northwest) have achieved the theoretical maximum biomass}}.",
                         "<b>Sources:<br></b><br>\"Old-growth forests as global carbon sinks\"<br><a href=\"https://sci-hub.ru/10.1038/nature07276\">https://sci-hub.ru/10.1038/nature07276</a>"
                     ],
                     "guid": "b3@SY3Rv_r",
@@ -114,7 +114,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Carbon is stored in forests in two major ways: {{c1::above-ground (i.e. trees)}} and {{c2::below-ground (i.e. soil)}}.",
+                        "<u>Carbon Research:</u><br>Carbon is stored in forests in two major ways: {{c1::above-ground (i.e. trees)}} and {{c2::below-ground (i.e. soil)}}.",
                         ""
                     ],
                     "guid": "i|hc/tu1.r",
@@ -124,7 +124,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Soil is a surprisingly good long-term carbon store, and is a slowly-decomposing mix of&nbsp;{{c1::plant / animal detritus}} (which decomposes quickly) and&nbsp;{{c1::humus}} (which is the stable result of the former, and decomposes slowly).<br><br>Major disturbances to the soil (as when a forest is chopped down) cause {{c2::the soil to decompose faster}}, frequently resulting in {{c2::new growth forests being&nbsp;<b>net carbon emitters</b>}}<b>.</b>",
+                        "<u>Carbon Research:<br></u>Soil is a surprisingly good long-term carbon store, and is a slowly-decomposing mix of&nbsp;{{c1::plant / animal detritus}} (which decomposes quickly) and&nbsp;{{c1::humus}} (which is the stable result of the former, and decomposes slowly).<br><br>Major disturbances to the soil (as when a forest is chopped down) cause {{c2::the soil to decompose faster}}, frequently resulting in {{c2::new growth forests being&nbsp;<b>net carbon emitters</b>}}<b>.</b>",
                         ""
                     ],
                     "guid": "wE.,Jl*;u>",
@@ -172,7 +172,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<div>Immediately, one ton of methane traps {{c2::100}} times as much as one ton of CO<sub>2</sub>.&nbsp;</div><div><br></div><div>Over {{c1::20}}&nbsp;years, the methane traps about {{c2::80}} times as much heat as the CO<sub>2</sub>.&nbsp;</div><div><br></div><div>Over {{c1::100}}&nbsp;years, the methane traps about {{c2::25}} times as much heat as the CO<sub>2</sub>.</div>",
+                        "<div><u>Carbon Research:</u></div><div>Immediately, one ton of methane traps {{c2::100}} times as much as one ton of CO<sub>2</sub>.&nbsp;</div><div><br></div><div>Over {{c1::20}}&nbsp;years, the methane traps about {{c2::80}} times as much heat as the CO<sub>2</sub>.&nbsp;</div><div><br></div><div>Over {{c1::100}}&nbsp;years, the methane traps about {{c2::25}} times as much heat as the CO<sub>2</sub>.</div>",
                         ""
                     ],
                     "guid": "M-Dd.QOxta",
@@ -182,7 +182,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "CO<sub>2</sub>&nbsp;has a half-life in the atmosphere of about&nbsp;{{c1::120}} years; methane is about {{c1::10}} years.",
+                        "<u>Carbon Research:</u><br>CO<sub>2</sub>&nbsp;has a half-life in the atmosphere of about&nbsp;{{c1::120}} years; methane is about {{c1::10}} years.",
                         ""
                     ],
                     "guid": "G$s*l`UwRt",
@@ -192,7 +192,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Global CO<sub>2</sub>&nbsp;emissions started rising around&nbsp;{{c1::1800}}, when they were about&nbsp;{{c2::30 million tonnes}} of CO<sub>2</sub>&nbsp;annually. <br><br>There are now about&nbsp;{{c2::30 billion}} tonnes of CO<sub>2</sub>&nbsp;annually.",
+                        "<u>Carbon Research:</u><br>Global CO<sub>2</sub>&nbsp;emissions started rising around&nbsp;{{c1::1800}}, when they were about&nbsp;{{c2::30 million tonnes}} of CO<sub>2</sub>&nbsp;annually. <br><br>There are now about&nbsp;{{c2::30 billion}} tonnes of CO<sub>2</sub>&nbsp;annually.",
                         "<img src=\"paste-48808e007ef6bad06ba20755dc139ec5178a3b63.jpg\">"
                     ],
                     "guid": "q!YP(0G<3{",
@@ -202,7 +202,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "{{c1::12}} plant species account for&nbsp;{{c1::75%}} of crop production.",
+                        "<u>Farming Research:</u> <br>{{c1::12}} plant species account for&nbsp;{{c1::75%}} of crop production.",
                         "<img src=\"paste-7527bc17967d451d9288296f9648ce1a3baeefaa.jpg\">"
                     ],
                     "guid": "i++l8;bW}X",
@@ -215,7 +215,7 @@
                         "9bde2b883eda44cda7b0004fe1b8ecae-oa-1",
                         "",
                         "<img src=\"tmp2nbdke7c.jpg\" />",
-                        "<img src=\"9bde2b883eda44cda7b0004fe1b8ecae-oa-1-Q.svg\" />",
+                        "<img src=\"9bde2b883eda44cda7b0004fe1b8ecae-oa-1-Q.svg\">",
                         "",
                         "",
                         "",
@@ -269,7 +269,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Nobody knows how much monocropping occurs in the US, but it is probably around&nbsp;{{c1::15%}} of crop production.",
+                        "<u>Farming Research:</u><br>Nobody knows how much monocropping occurs in the US, but it is probably around&nbsp;{{c1::15%}} of crop production.",
                         "<img src=\"paste-23590ef2a5e9ecbe85cf6ef50dc86103bab0d52b.jpg\"><br><br><b>Source:&nbsp;</b>Market-Driven Corn Monocropping in\nthe U.S. Midwest&nbsp;"
                     ],
                     "guid": "Fmx&Gp32{f",
@@ -279,7 +279,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Potential externalities of monocropping include:</b><br><br>1) {{c1::Nitrate runoff}}<br>2) {{c5::Increased pesticide use}}<br><br>3) {{c2::Increased pest population}}<br>4) {{c3::Kills pollinators because of homogenous diet &amp; pesticides}}<br><br>5) {{c4::More water use due to weaker topsoil}}",
+                        "<u>Farming Research:</u><br><b>Potential externalities of monocropping include:</b><br><br>1) {{c1::Nitrate runoff}}<br>2) {{c5::Increased pesticide use}}<br><br>3) {{c2::Increased pest population}}<br>4) {{c3::Kills pollinators because of homogenous diet &amp; pesticides}}<br><br>5) {{c4::More water use due to weaker topsoil}}",
                         ""
                     ],
                     "guid": "t/T_Kp-guK",
@@ -289,7 +289,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Nitrate runoff is bad because of {{c1::NO<sub>2&nbsp;</sub>emissions (300x warming potential of CO<sub>2</sub>)}},&nbsp;{{c2::algal bloom}} and {{c3::water contamination leading to health risks (rare, but bad)}}.<br><br>",
+                        "<u>Farming Research:</u> <br>Nitrate runoff is bad because of {{c1::NO<sub>2&nbsp;</sub>emissions (300x warming potential of CO<sub>2</sub>)}},&nbsp;{{c2::algal bloom}} and {{c3::water contamination leading to health risks (rare, but bad)}}.<br><br>",
                         ""
                     ],
                     "guid": "i~ezqS,m|H",
@@ -299,7 +299,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Downsides of pesticide use include:</b><br><br>1) {{c1::Increased resistance of pests}}<br><br>2) {{c4::Kills pollinators}}<br><br>3) {{c2::Water contamination affecting local areas (maybe bad for neighbour's tap water)}}<br><br>4)&nbsp; {{c3::Farm worker health}}.",
+                        "<u>Farming Research:&nbsp;</u><br><b>Downsides of pesticide use include:</b><br><br>1) {{c1::Increased resistance of pests}}<br><br>2) {{c4::Kills pollinators}}<br><br>3) {{c2::Water contamination affecting local areas (maybe bad for neighbour's tap water)}}<br><br>4)&nbsp; {{c3::Farm worker health}}.",
                         ""
                     ],
                     "guid": "JSFYg0lF.K",
@@ -309,7 +309,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Farm workers in the US have a life expectancy of&nbsp;{{c1::49}} years.",
+                        "<u>Farming Research:&nbsp;</u><br>Farm workers in the US have a life expectancy of&nbsp;{{c1::49}} years.",
                         ""
                     ],
                     "guid": "iGszi92Gvd",
@@ -319,7 +319,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Switching to organic farming drops food output per area by ~{{c1::40}}%.<br><br>The effect on GHG emissions would be: {{c2::direct emissions would decrease, but overseas land use change would mean that total emissions would go up.}}",
+                        "<u>Farming Research:</u><br>Switching to organic farming drops food output per area by ~{{c1::40}}%.<br><br>The effect on GHG emissions would be: {{c2::direct emissions would decrease, but overseas land use change would mean that total emissions would go up.}}",
                         "<b><br>Source:&nbsp;</b>UK Organic Farming Paper"
                     ],
                     "guid": "o7B)2L4O6",
@@ -329,7 +329,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "The three main aspects of organic farming are:<br><br>{{c1::Organic fertilizer instead of synthetic}}<br><br>{{c2::No pesticides}}<br><br>{{c3::Emphasis on crop rotation + companion planting}}",
+                        "<u>Farming Research:<br></u>The three main aspects of organic farming are:<br><br>{{c1::Organic fertilizer instead of synthetic}}<br><br>{{c2::No pesticides}}<br><br>{{c3::Emphasis on crop rotation + companion planting}}",
                         ""
                     ],
                     "guid": "tQ(RrOe*93",
@@ -339,7 +339,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Globally, what are the main differences in crop yields and diversity between small &amp; big farms?<br><br>Small farms have {{c1::slightly higher yields (unclear if weight-per-acre or value-per-acre)}}.<br><br>There is little difference in&nbsp;{{c2::GHG emissions}} and&nbsp;{{c2::profit}}<br><br>",
+                        "<u>Farming Research:&nbsp;</u><br>Globally, what are the main differences in crop yields and diversity between small &amp; big farms?<br><br>Small farms have {{c1::slightly higher yields (unclear if weight-per-acre or value-per-acre)}}.<br><br>There is little difference in&nbsp;{{c2::GHG emissions}} and&nbsp;{{c2::profit}}<br><br>",
                         "<br><br>FYI, none of this is really true in the US: the relationship between big &amp; small farms in the US is very different than in more agriculture-heavy countries.<b><br><br>Source:&nbsp;</b>Higher yields and more biodiversity on smaller farms"
                     ],
                     "guid": "lHZ{hIDNis",
@@ -349,7 +349,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "It takes&nbsp;{{c1::20}} lbs of grain to make 1lb of beef.",
+                        "<u>Carbon Research:<br></u>It takes&nbsp;{{c1::20}} lbs of grain to make 1lb of beef.",
                         "<img alt=\"Cow | Description &amp; Facts | Britannica\" src=\"brown-Guernsey-cow.jpg\">"
                     ],
                     "guid": "gSg$]ETcu_",
@@ -359,7 +359,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "US meat consumption is ~{{c1::250}} lbs per person, annually: this is #{{c2::<b>2</b>}} in the world!",
+                        "<u>Carbon Research:<br></u>US meat consumption is ~{{c1::250}} lbs per person, annually: this is #{{c2::<b>2</b>}} in the world!",
                         "<img alt=\"US Meat Connect - Apps en Google Play\" src=\"pj8mfM3_CP_XlC67I22VAlDlq5Dh4TqJYuIXSwXqf1e00JyK0egynEf9lh27HF9CEVM.png\">"
                     ],
                     "guid": "Ds^$U}HHi>",
@@ -369,7 +369,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "{{c2::NEPA (the National Environmental Policy Act)}} is the foundation of {{c1::environmental law in the US}}, and was signed into law in {{c3::1970}}.",
+                        "<u>NEPA Research:</u><br>{{c2::NEPA (the National Environmental Policy Act)}} is the foundation of {{c1::environmental law in the US}}, and was signed into law in {{c3::1970}}.",
                         "<br><i>NEPA precipitated the creation of the EPA, the Clean Air Act, the Clean Water Act, etc., and is often called the \"Magna Carta of environmental law\".</i>"
                     ],
                     "guid": "k$^a@Lr-*N",
@@ -379,7 +379,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Unlike the more specific environmental laws that followed it, NEPA&nbsp;{{c1::doesn't actually provide environmental protections}}. Instead it does three things:<br><br>1)&nbsp;{{c2::Declares a national environmental policy in lofty language}}<br><br>2)&nbsp;{{c3::Directs federal agencies to follow that policy, and take environmental effects into account when making decisions}}<br><br>3)&nbsp;{{c4::Establishes a Council on Environmental Equality (CEQ) in the White House}}.",
+                        "<u>NEPA Research:<br></u>Unlike the more specific environmental laws that followed it, NEPA&nbsp;{{c1::doesn't actually provide environmental protections}}. Instead it does three things:<br><br>1)&nbsp;{{c2::Declares a national environmental policy in lofty language}}<br><br>2)&nbsp;{{c3::Directs federal agencies to follow that policy, and take environmental effects into account when making decisions}}<br><br>3)&nbsp;{{c4::Establishes a Council on Environmental Equality (CEQ) in the White House}}.",
                         ""
                     ],
                     "guid": "i>.*kELETq",
@@ -389,7 +389,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "The most important part of NEPA is a subsection specifying that:<br><br>{{c1::\"Major Federal action\" significantly affecting the quality of the human environment requires a \"detailed environmental impact statement\"}}.",
+                        "<u>NEPA Research:</u><br>The most important part of NEPA is a subsection specifying that:<br><br>{{c1::\"Major Federal action\" significantly affecting the quality of the human environment requires a \"detailed environmental impact statement\"}}.",
                         "<br><br>None of these terms are defined..."
                     ],
                     "guid": "e/pfttTMV/",
@@ -399,7 +399,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "The mean preparation time for EISs finished in 2020 was&nbsp;{{c1::about 5 years}}.",
+                        "<u>NEPA Research:</u> <br>The mean preparation time for EISs finished in 2020 was&nbsp;{{c1::about 5 years}}.",
                         ""
                     ],
                     "guid": "Lf!v?{w}/t",
@@ -409,7 +409,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Federal agencies can skip EISs if they issue a&nbsp;{{c1::Finding of No Significant Impact (FONSI)}}, which must be based on an&nbsp;{{c2::Environmental Assessment (EA)}}.",
+                        "<u>NEPA Research:</u> <br>Federal agencies can skip EISs if they issue a&nbsp;{{c1::Finding of No Significant Impact (FONSI)}}, which must be based on an&nbsp;{{c2::Environmental Assessment (EA)}}.",
                         "<br><br>The EA requirement was created by the CEQ in 1978, and is not mentioned in NEPA."
                     ],
                     "guid": "vPLchx[$G:",
@@ -419,7 +419,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "The federal government finalized around&nbsp;{{c1::200}} EISs each year, whereas it finalizes over&nbsp;{{c2::10,000}} EAs. <br><br>So even though EAs are shorter, their cumulative burden is much greater.",
+                        "<u>NEPA Research:<br></u>The federal government finalized around&nbsp;{{c1::200}} EISs each year, whereas it finalizes over&nbsp;{{c2::10,000}} EAs. <br><br>So even though EAs are shorter, their cumulative burden is much greater.",
                         ""
                     ],
                     "guid": "HwmzdS#<:N",
@@ -429,7 +429,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Surprisingly many things constitute a 'federal action' under NEPA, notably including&nbsp;{{c1::permit granting and changing of regulations}}.<br><br>NYC's congestion pricing is a good example: {{c2::its roads are part of the National Highway System, so it needs approval from the Federal Highway Administration, which then requires an EA}}.",
+                        "<u>NEPA Research:</u><br>Surprisingly many things constitute a 'federal action' under NEPA, notably including&nbsp;{{c1::permit granting and changing of regulations}}.<br><br>NYC's congestion pricing is a good example: {{c2::its roads are part of the National Highway System, so it needs approval from the Federal Highway Administration, which then requires an EA}}.",
                         ""
                     ],
                     "guid": "q80M5Pg(ql",
@@ -439,7 +439,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Projects can involve&nbsp;<i>several</i>&nbsp;NEPA reviews if {{c2::they require multiple agency approvals}}. An example geothermal development on federal land required&nbsp;{{c1::six}} NEPA reviews over 10 years: <br><br>1) To make the land available for leasing<br>2) To actually lease it<br>3) For basic site exploration<br>4) To dig exploratory wells<br>5) To actually develop the wells<br>6) To build the power plant and transmission lines, etc.",
+                        "<u>NEPA Research:</u><br>Projects can involve&nbsp;<i>several</i>&nbsp;NEPA reviews if {{c2::they require multiple agency approvals}}. An example geothermal development on federal land required&nbsp;{{c1::six}} NEPA reviews over 10 years: <br><br>1) To make the land available for leasing<br>2) To actually lease it<br>3) For basic site exploration<br>4) To dig exploratory wells<br>5) To actually develop the wells<br>6) To build the power plant and transmission lines, etc.",
                         "<img src=\"Screen-Shot-2022-10-20-at-11.12.40-AM.png\">"
                     ],
                     "guid": "P&!h/+/{n0",
@@ -449,7 +449,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "The mammalian biosphere is&nbsp;<i>wildly</i>&nbsp;human focused. By biomass (measured in weight of carbon):<br><br>Wild Mammals: {{c1::4%}}<br>Humans:&nbsp;{{c2::About 1/3}}<br>Livestock:&nbsp;{{c3::About 2/3}}",
+                        "<u>Biomass Research:</u> <br>The mammalian biosphere is&nbsp;<i>wildly</i>&nbsp;human focused. By biomass (measured in weight of carbon):<br><br>Wild Mammals: {{c1::4%}}<br>Humans:&nbsp;{{c2::About 1/3}}<br>Livestock:&nbsp;{{c3::About 2/3}}",
                         "<img src=\"paste-f225705c87d7999184d455d7d46d4bfd9c8ee072.jpg\">"
                     ],
                     "guid": "wbSSQJGPNh",
@@ -459,7 +459,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "{{c1::80%}} of global biomass is in&nbsp;{{c2::plants}}, {{c1::10%}} in&nbsp;{{c2::bacteria}}, and only&nbsp;{{c1::0.4%}} in {{c2::animals}}<b>.</b>",
+                        "<u>Biomass Research:<br></u>{{c1::80%}} of global biomass is in&nbsp;{{c2::plants}}, {{c1::10%}} in&nbsp;{{c2::bacteria}}, and only&nbsp;{{c1::0.4%}} in {{c2::animals}}<b>.</b>",
                         "<img src=\"paste-8cb64beb58f3ec653a2bc4ea8cc82d08b93069ef.jpg\">"
                     ],
                     "guid": "g_*!vd_;W/",
@@ -469,7 +469,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Among animals, {{c1::arthropods}} and {{c2::fish}} take up most of the biomass.<br><br>Mammals and birds make up less than&nbsp;{{c3::10%}} of animal biomass.",
+                        "<u>Biomass Research:</u><br>Among animals, {{c1::arthropods}} and {{c2::fish}} take up most of the biomass.<br><br>Mammals and birds make up less than&nbsp;{{c3::10%}} of animal biomass.",
                         "<img src=\"paste-a091fad58f60459d8423235386fae5e79ee3590d.jpg\">"
                     ],
                     "guid": "i[$9)Ncko/",
@@ -479,7 +479,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "{{c1::Arthropods}} are the {{c2::most dominant animal (by biomass)}}, and characteristics include:<br><br>1) {{c3::Invertebrates}}<br>2) {{c4::Shells}}<br>3)&nbsp;{{c5::Segmented bodies}}<br><br>Common examples include:&nbsp;{{c6::crustaceans, centipedes, insects, spiders}}.",
+                        "<u>Biomass Research:</u><br>{{c1::Arthropods}} are the {{c2::most dominant animal (by biomass)}}, and characteristics include:<br><br>1) {{c3::Invertebrates}}<br>2) {{c4::Shells}}<br>3)&nbsp;{{c5::Segmented bodies}}<br><br>Common examples include:&nbsp;{{c6::crustaceans, centipedes, insects, spiders}}.",
                         "<img src=\"paste-946bdd385953df16a4adbffc02a27db50e783747.jpg\">"
                     ],
                     "guid": "k=E([+kAVm",
@@ -507,7 +507,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Most Nazi medical research was&nbsp;useless, and the only systematic assessment of the maybe-useful parts comes from a {{c1::US Army Doctor, Dr Leo Alexander}}, based on Himmler's files.<br><br>The debate over whether it is ethical to use Nazi research traces to two people: {{c2::Dr Robert Pozos, a hypothermia researcher at Minnesota Med School}}, and&nbsp;{{c2::Arthur Caplan, head of the Minnestota Biomedical Ethics Centre}}.&nbsp;{{c2::Pozos &amp; Caplan}} raised the issue in a local newspaper in {{c3::1987}}, starting a national conversation on the subject.",
+                        "<u>Nazi Research:<br></u>Most Nazi medical research was&nbsp;useless, and the only systematic assessment of the maybe-useful parts comes from a {{c1::US Army Doctor, Dr Leo Alexander}}, based on Himmler's files.<br><br>The debate over whether it is ethical to use Nazi research traces to two people: {{c2::Dr Robert Pozos, a hypothermia researcher at Minnesota Med School}}, and&nbsp;{{c2::Arthur Caplan, head of the Minnestota Biomedical Ethics Centre}}.&nbsp;{{c2::Pozos &amp; Caplan}} raised the issue in a local newspaper in {{c3::1987}}, starting a national conversation on the subject.",
                         "<a href=\"https://www.jewishvirtuallibrary.org/the-ethics-of-using-medical-data-from-nazi-experiments#use\">https://www.jewishvirtuallibrary.org/the-ethics-of-using-medical-data-from-nazi-experiments#use</a><br><br>Pozos Story:&nbsp;<a href=\"https://www.latimes.com/archives/la-xpm-1988-10-30-mn-958-story.html\">https://www.latimes.com/archives/la-xpm-1988-10-30-mn-958-story.html</a>"
                     ],
                     "guid": "J%QM(.1@Dp",
@@ -517,7 +517,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "The final time that Nazi Holocaust medical research was seriously discussed was at {{c1::Arthur Caplan}}'s conference in 1989:&nbsp;<i>\"The Meaning of the Holocaust for Bioethics\".</i><br><br>His summary review basically concludes: \"The two obvious sides disagreed on their two things\", but notably a Harvard Med School cardiac surgeon named {{c2::Robert Berger}} made the case that {{c3::it was&nbsp;<i>irrelevant</i>&nbsp;whether it was ethical to use the research, because the research was basically useless}}, and also that the premature and disproportionate ethical debate has given the false, lionizing impression that Nazi science was {{c4::useful and evil}}, instead of {{c4::dog shit and evil}}.<br>",
+                        "<u>Nazi Research:<br></u>The final time that Nazi Holocaust medical research was seriously discussed was at {{c1::Arthur Caplan}}'s conference in 1989:&nbsp;<i>\"The Meaning of the Holocaust for Bioethics\".</i><br><br>His summary review basically concludes: \"The two obvious sides disagreed on their two things\", but notably a Harvard Med School cardiac surgeon named {{c2::Robert Berger}} made the case that {{c3::it was&nbsp;<i>irrelevant</i>&nbsp;whether it was ethical to use the research, because the research was basically useless}}, and also that the premature and disproportionate ethical debate has given the false, lionizing impression that Nazi science was {{c4::useful and evil}}, instead of {{c4::dog shit and evil}}.<br>",
                         "Caplan Conference:&nbsp;<a href=\"https://core.ac.uk/download/pdf/214164446.pdf\">https://core.ac.uk/download/pdf/214164446.pdf</a><br>Berger Article:&nbsp;<a href=\"https://jme.bmj.com/content/medethics/20/4/207.full.pdf\">https://jme.bmj.com/content/medethics/20/4/207.full.pdf</a>"
                     ],
                     "guid": "jNpnFbwz2:",
@@ -527,7 +527,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Around&nbsp;{{c1::45}} medical articles published since WW2 reference Nazi research, almost all of which are about {{c2::hypothermia (and reference the Dachau experiments)}}.",
+                        "<u>Nazi Research:</u> <br>Around&nbsp;{{c1::45}} medical articles published since WW2 reference Nazi research, almost all of which are about {{c2::hypothermia (and reference the Dachau experiments)}}.",
                         "JSTOR Reference:&nbsp;<a href=\"https://www.jstor.org/stable/3561733?origin=crossref\">https://www.jstor.org/stable/3561733?origin=crossref</a>"
                     ],
                     "guid": "pueLB,EGM@",
@@ -561,7 +561,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "In the studies where IF helped lose weight, it was mostly due to&nbsp;{{c1::reducing calorie intake}}. IF without CR probably doesn't reduce weight.",
+                        "<u style=\"color: rgb(28, 25, 23);\">Intermittent Fasting Research:<br></u>In the studies where IF helped lose weight, it was mostly due to&nbsp;{{c1::reducing calorie intake}}. IF without CR probably doesn't reduce weight.",
                         "Ups And Downs Paper:&nbsp;<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8749464/#emmm202114418-bib-0159\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8749464/#emmm202114418-bib-0159</a>"
                     ],
                     "guid": "f-yL;zp@;w",
@@ -571,7 +571,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<div>Intermittent fasting can improve brain function because periods of fasting increase levels of a protein called {{c1::BDNF, or Brain-derived neurotrophic factor}}.&nbsp; This protein helps neurons grow and make new connections which supports {{c2::learning and memory}}.</div>",
+                        "<div><u style=\"color: rgb(28, 25, 23);\">Intermittent Fasting Research:</u></div><div>Intermittent fasting can improve brain function because periods of fasting increase levels of a protein called {{c1::BDNF, or Brain-derived neurotrophic factor}}.&nbsp; This protein helps neurons grow and make new connections which supports {{c2::learning and memory}}.</div>",
                         "This may help prevent Alzeimer's and Parkinson's"
                     ],
                     "guid": "dcR2z=GT#C",
@@ -581,7 +581,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">IF lowers levels of {{c1::insulin}} in the blood. This reduces&nbsp;</span>{{c1::insulin resistance}}, which commonly develops as a result of&nbsp;{{c2::high-sugar intake}} and results in&nbsp;{{c3::diabetes and a bunch of other conditions}}.",
+                        "<span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\"><u>Intermittent Fasting Research:</u> <br>IF lowers levels of {{c1::insulin}} in the blood. This reduces&nbsp;</span>{{c1::insulin resistance}}, which commonly develops as a result of&nbsp;{{c2::high-sugar intake}} and results in&nbsp;{{c3::diabetes and a bunch of other conditions}}.",
                         "Beyond diabetes, insulin resistance is associated with:<br><br><ul><li>Cardiovascular disease</li><li>Nonalcoholic&nbsp;fatty liver disease.</li><li>Metabolic syndrome.</li><li>Polycystic ovary syndrome (PCOS).</li></ul><div>So it's not just about obesity / diabetes: there are&nbsp;<i>non-weight&nbsp;</i>effects of high insulin resistance.</div>"
                     ],
                     "guid": "o^GyAX6.X&",
@@ -591,7 +591,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">&nbsp;Because IF mildly&nbsp;</span>{{c2::stresses cells}}, it&nbsp;<span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">turns on repair processes in cells like </span>{{c3::DNA repair}}<span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">&nbsp;and {{c1::autophagy}}.</span>",
+                        "<span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\"><u>Intermittent Fasting Research:&nbsp;</u><br>Because IF mildly&nbsp;</span>{{c2::stresses cells}}, it&nbsp;<span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">turns on repair processes in cells like </span>{{c3::DNA repair}}<span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">&nbsp;and {{c1::autophagy}}.</span>",
                         "<div>Autophagy reuses intra-cellular components and conserves energy.</div>"
                     ],
                     "guid": "Fm?QsSVZU_",
@@ -601,7 +601,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">Intermittent fasting increases levels of the hormone {{c1::adiponectin}}, which {{c2::reduces inflammation}}.</span>",
+                        "<u style=\"color: rgb(28, 25, 23);\">Intermittent Fasting Research:<br></u><span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">Intermittent fasting increases levels of the hormone {{c1::adiponectin}}, which {{c2::reduces inflammation}}.</span>",
                         "<span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">Higher adiponectin levels may help explain anti-inflammatory effects of IF.</span>"
                     ],
                     "guid": "y_h*]UqM!U",
@@ -611,7 +611,27 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "2023 mouse study:&nbsp;<br><span style=\"background-color: rgb(255, 255, 255);\"><br>Caloric restriction itself extended the lifespan by&nbsp;</span>{{c1::10%}}.<br><span style=\"background-color: rgb(255, 255, 255);\"><br>When the fasting time was added, the lifespan was increased to&nbsp;</span>{{c2::20%}}.<br><span style=\"background-color: rgb(255, 255, 255);\"><br>When the feeding time was aligned to the active period, the lifespan was further extended to&nbsp;</span>{{c3::35%}}<span style=\"background-color: rgb(255, 255, 255);\">, demonstrating that when food intake is restricted to an appropriate time of the day there is an additional benefit to caloric restriction and fasting on lifespan.</span>",
+                        "<u style=\"color: rgb(28, 25, 23);\">Intermittent Fasting Research:<br></u>One mouse study found that, {{c1::regardless of caloric intake}}, intermittent fasting {{c2::enhanced insulin sensitivity and reduced blood glucose levels}}<span style=\"color: rgb(29, 29, 31); background-color: rgb(255, 255, 255);\">.&nbsp;</span>",
+                        "This shows that it's not the caloric restriction aspect of intermittent fasting that confers its benefits&nbsp;"
+                    ],
+                    "guid": "E`>}KCuV;@",
+                    "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<u><span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">Intermittent Fasting Research:</span></u><br><i><span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">Reasons why, i</span><span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">n human studies, early time-restricted feeding (eating window earlier in the day) shows better results than late TRF in terms of&nbsp;</span><span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">weight loss, insulin sensitivity, blood pressure, inflammation, and oxidative stress:&nbsp;</span></i><span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\"><br></span><br>1.&nbsp;<span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">eTRF better aligns with the body's&nbsp;</span>{{c1::circadian rhythms}}<span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">&nbsp;and&nbsp;</span>{{c1::metabolic cycles}}<span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">, which are primed for food intake earlier in the day.&nbsp;<br><br>2.&nbsp;</span>{{c2::Insulin sensitivity}} and {{c2::glucose tolerance}} decrease over the course of the day. Eating earlier maximizes them.<br><br>3.&nbsp;<span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">Late night eating can negatively impact&nbsp;</span>{{c3::sleep quality and duration}}<span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">, which can have downstream effects on body weight, metabolism and health.</span><br>",
+                        "<i>Mechanisms of&nbsp;lifespan&nbsp;regulation by&nbsp;calorie restriction&nbsp;and&nbsp;intermittent fasting&nbsp;in model organisms:&nbsp;<a href=\"https://www.mdpi.com/2072-6643/12/4/1194/pdf\">https://www.mdpi.com/2072-6643/12/4/1194/pdf</a></i>"
+                    ],
+                    "guid": "nlsi}f{#&E",
+                    "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<u><span style=\"color: rgb(28, 25, 23); background-color: rgb(255, 255, 255);\">Intermittent Fasting Research:</span></u><br>2023 mouse study:&nbsp;<br><span style=\"background-color: rgb(255, 255, 255);\"><br>Caloric restriction itself extended the lifespan by&nbsp;</span>{{c1::10%}}.<br><span style=\"background-color: rgb(255, 255, 255);\"><br>When the fasting time was added, the lifespan was increased to&nbsp;</span>{{c2::20%}}.<br><span style=\"background-color: rgb(255, 255, 255);\"><br>When the feeding time was aligned to the active period, the lifespan was further extended to&nbsp;</span>{{c3::35%}}<span style=\"background-color: rgb(255, 255, 255);\">, demonstrating that when food intake is restricted to an appropriate time of the day there is an additional benefit to caloric restriction and fasting on lifespan.</span>",
                         "<a href=\"https://onlinelibrary.wiley.com/doi/full/10.1111/jdi.14033\">https://onlinelibrary.wiley.com/doi/full/10.1111/jdi.14033</a>"
                     ],
                     "guid": "yfYW{,5oc-",
@@ -621,7 +641,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "In mouse longevity, what is the relationship between intermittent fasting and caloric restriction?",
+                        "<u style=\"color: rgb(28, 25, 23);\">Intermittent Fasting Research:<br></u>In mouse longevity, what is the relationship between intermittent fasting and caloric restriction?",
                         "Caloric restriction alone shows benefits, but the most long-lived population does <i>both</i>.<br><br>(The longevity effects of IF without CR are unknown)<br><br><b>References:<br><br><img src=\"paste-d6a2be0531956d8dfad305f768388f6ca14e8b7f.jpg\"><br><br>Paper:&nbsp;</b><i>\"Fasting drives the metabolic, molecular and\ngeroprotective effects of a calorie-restricted diet\nin mice\"</i>"
                     ],
                     "guid": "flbu.s@c+f",
@@ -631,7 +651,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "The meta-analysis investigating \"Does Zinc cure colds?\" had patients taking &gt;{{c1::75}}mg / day of&nbsp;{{c2::zinc acetate or gluconate lozenges}}.<br><br>Mean common cold duration fell by&nbsp;{{c3::33%}} for zinc takers, with&nbsp;{{c4::no significant}} difference between the salts.",
+                        "<u>Cold</u><u>&nbsp;Research: Zinc</u><br>The meta-analysis investigating \"Does Zinc cure colds?\" had patients taking &gt;{{c1::75}}mg / day of&nbsp;{{c2::zinc acetate or gluconate lozenges}}.<br><br>Mean common cold duration fell by&nbsp;{{c3::33%}} for zinc takers, with&nbsp;{{c4::no significant}} difference between the salts.",
                         "<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5418896/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5418896/</a>"
                     ],
                     "guid": "n;/Y*3o{<Q",
@@ -641,7 +661,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "The GOAT of common cold research is&nbsp;{{c1::Harri Hemilä}}, a public health researcher at the {{c2::University of Helsinki}}, who wrote the only good meta-analyses on Vitamin C and Zinc as anti-cold measures.",
+                        "<u>Cold Research:</u><br>The GOAT of common cold research is&nbsp;{{c1::Harri Hemilä}}, a public health researcher at the {{c2::University of Helsinki}}, who wrote the only good meta-analyses on Vitamin C and Zinc as anti-cold measures.",
                         "Vitamin C:&nbsp;<a href=\"https://www.mdpi.com/2072-6643/9/4/339/htm\">https://www.mdpi.com/2072-6643/9/4/339/htm</a><br>Vitamin C:&nbsp;<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8078152/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8078152/</a><br><br>Zinc:&nbsp;<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5418896/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5418896/</a>"
                     ],
                     "guid": "QZjq>3E5-[",
@@ -661,7 +681,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Regular supplementation of Vitamin C doesn't affect&nbsp;{{c1::cold frequency}}, but reduces&nbsp;{{c1::cold length}} by&nbsp;{{c2::10%}} in adults and&nbsp;{{c2::20%}} in kids.",
+                        "<u>Cold</u><u>&nbsp;Research: Vitamin C</u><br>Regular supplementation of Vitamin C doesn't affect&nbsp;{{c1::cold frequency}}, but reduces&nbsp;{{c1::cold length}} by&nbsp;{{c2::10%}} in adults and&nbsp;{{c2::20%}} in kids.",
                         "<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8078152/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8078152/</a>"
                     ],
                     "guid": "J!RNW7rJA(",
@@ -671,7 +691,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Children get colds approximately&nbsp;{{c1::twice}} as often as adults.",
+                        "<u>Cold Research:</u><br>Children get colds approximately&nbsp;{{c1::twice}} as often as adults.",
                         "<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8078152/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8078152/</a>"
                     ],
                     "guid": "I*Uislr_b^",
@@ -681,7 +701,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Regular supplementation of Vitamin C needs to be at least&nbsp;{{c1::1g / day}} to have cold-length-reduction affects. Only two trials have been done with higher doses, and they show {{c2::linear improvement}} up to {{c3::6g / day}}.",
+                        "<u>Cold</u><u>&nbsp;Research: Vitamin C</u><br>Regular supplementation of Vitamin C needs to be at least&nbsp;{{c1::1g / day}} to have cold-length-reduction affects. Only two trials have been done with higher doses, and they show {{c2::linear improvement}} up to {{c3::6g / day}}.",
                         "<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8078152/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8078152/</a>"
                     ],
                     "guid": "iL>Rv<>8Of",
@@ -691,7 +711,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<div>The most common digestive symptoms of excessive vitamin C intake are {{c1::diarrhea and nausea}}. Some people start to experience these above&nbsp;{{c2::2g / day}}, but people have also consumed&nbsp;{{c3::100g / day}} with no ill-effects.</div>",
+                        "<div><u>Cold</u><u>&nbsp;Research: Vitamin C</u></div><div>The most common digestive symptoms of excessive vitamin C intake are {{c1::diarrhea and nausea}}. Some people start to experience these above&nbsp;{{c2::2g / day}}, but people have also consumed&nbsp;{{c3::100g / day}} with no ill-effects.</div>",
                         "<a href=\"https://www.healthline.com/nutrition/side-effects-of-too-much-vitamin-c#vitamin-c\">https://www.healthline.com/nutrition/side-effects-of-too-much-vitamin-c#vitamin-c</a><br><br><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8078152/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8078152/</a>"
                     ],
                     "guid": "pxk,=8I55T",
@@ -701,7 +721,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "There are a bunch of studies of theraputic Vitamin C and cold duration, and they all contradict eachother. The strongest effect was found by giving {{c1::6g}} / day and starting treatment&nbsp;{{c2::within 24 hours of symptom onset}}, which reduced mean cold length by {{c3::50%}}.<br><br>Ultimately this is probably highly individual-dependent, but you should try it just in case it works for you.",
+                        "<u>Cold</u><u>&nbsp;Research: Vitamin C<br></u>There are a bunch of studies of theraputic Vitamin C and cold duration, and they all contradict eachother. The strongest effect was found by giving {{c1::6g}} / day and starting treatment&nbsp;{{c2::within 24 hours of symptom onset}}, which reduced mean cold length by {{c3::50%}}.<br><br>Ultimately this is probably highly individual-dependent, but you should try it just in case it works for you.",
                         "<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8078152/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8078152/</a>"
                     ],
                     "guid": "u1H03jRD=~",
@@ -721,7 +741,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Over a 20 year period, each additional portion of daily fruit or vegetable reduced mortality risk by&nbsp;{{c1::5%}}, up to around&nbsp;{{c2::5 portions}}. Most of this protective effect is due to decreased risk of&nbsp;{{c3::cardiovascular disease}} and {{c3::some cancers}}.",
+                        "<u>Nutrition Research:</u><br>Over a 20 year period, each additional portion of daily fruit or vegetable reduced mortality risk by&nbsp;{{c1::5%}}, up to around&nbsp;{{c2::5 portions}}. Most of this protective effect is due to decreased risk of&nbsp;{{c3::cardiovascular disease}} and {{c3::some cancers}}.",
                         "<img src=\"paste-77cc186feb87ace4d2e8a55809bf208ad63b8b44.jpg\"><br><br><a href=\"https://www.bmj.com/content/349/bmj.g4490\">https://www.bmj.com/content/349/bmj.g4490</a>"
                     ],
                     "guid": "IKP;VAElVi",
@@ -731,7 +751,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Vegetables have&nbsp;{{c1::about the same}} fiber per serving as fruit, but&nbsp;{{c1::more}} per calorie.<br><br>Fruits are slightly higher in&nbsp;{{c2::antioxidants}}, and&nbsp;<i>a couple</i>&nbsp;more studies have found health benefits from {{c3::vegetables}} than&nbsp;{{c3::fruits}}, but both are generally treated the same in research.&nbsp;",
+                        "<u>Nutrition Research:</u><br>Vegetables have&nbsp;{{c1::about the same}} fiber per serving as fruit, but&nbsp;{{c1::more}} per calorie.<br><br>Fruits are slightly higher in&nbsp;{{c2::antioxidants}}, and&nbsp;<i>a couple</i>&nbsp;more studies have found health benefits from {{c3::vegetables}} than&nbsp;{{c3::fruits}}, but both are generally treated the same in research.&nbsp;",
                         "<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6506980/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6506980/</a>"
                     ],
                     "guid": "mK&wkT?2:f",
@@ -741,7 +761,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Beyond \"fiber\", there are hundreds of different phytochemicals in fruits and vegetables. None of them are well understood, and the phytochemicals don't break down nicely across fruit / vegetable lines.<br><br>From a nutritional perspective, fruit is essentially {{c1::a sugary vegetable}} with a&nbsp;<i>slightly</i>&nbsp;different&nbsp;{{c1::nutrient profile}}. If you're worried about {{c2::overall sugar intake}} or {{c2::blood sugar spikes}}, maybe swap some in vegetables for some fruit.",
+                        "<u>Nutrition Research:</u> <br>Beyond \"fiber\", there are hundreds of different phytochemicals in fruits and vegetables. None of them are well understood, and the phytochemicals don't break down nicely across fruit / vegetable lines.<br><br>From a nutritional perspective, fruit is essentially {{c1::a sugary vegetable}} with a&nbsp;<i>slightly</i>&nbsp;different&nbsp;{{c1::nutrient profile}}. If you're worried about {{c2::overall sugar intake}} or {{c2::blood sugar spikes}}, maybe swap some in vegetables for some fruit.",
                         "<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6506980/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6506980/</a>"
                     ],
                     "guid": "AuoGa+exEl",
@@ -761,7 +781,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Hemila did a follow-up RCT in 2020 to confirm the results of his zinc meta-analysis.<br><br>He found that&nbsp;{{c1::zinc did not help}}, and theorized this might be because:<br><br>1) {{c2::His zinc tablets dissolved too quickly (10 mins vs half an hour)}}<br><br>2) {{c4::Treatment should be at least 90mg of zinc (his patients actually took ~60mg)}}<br><br>3) {{c3::Treatment should be longer than 5 days (zinc patients got worse after their treatment stopped)}}",
+                        "<u>Cold</u><u>&nbsp;Research: Zinc</u><br>Hemila did a follow-up RCT in 2020 to confirm the results of his zinc meta-analysis.<br><br>He found that&nbsp;{{c1::zinc did not help}}, and theorized this might be because:<br><br>1) {{c2::His zinc tablets dissolved too quickly (10 mins vs half an hour)}}<br><br>2) {{c4::Treatment should be at least 90mg of zinc (his patients actually took ~60mg)}}<br><br>3) {{c3::Treatment should be longer than 5 days (zinc patients got worse after their treatment stopped)}}",
                         "<a href=\"https://bmjopen.bmj.com/content/bmjopen/10/1/e031662.full.pdf\">https://bmjopen.bmj.com/content/bmjopen/10/1/e031662.full.pdf</a>"
                     ],
                     "guid": "JyPL72i<CQ",
@@ -771,7 +791,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Consuming over&nbsp;{{c1::50mg}} of zinc over a long period of time can interfere with&nbsp;{{c2::copper absorbsion and immune function}}.<br><br>Over a short period of time, it might cause&nbsp;{{c3::nausea / stomach pain}}",
+                        "<u>Zinc Research:</u><br>Consuming over&nbsp;{{c1::50mg}} of zinc over a long period of time can interfere with&nbsp;{{c2::copper absorbsion and immune function}}.<br><br>Over a short period of time, it might cause&nbsp;{{c3::nausea / stomach pain}}",
                         "<a href=\"https://www.nutritionletter.tufts.edu/ask-experts/q-i-take-50-milligrams-of-zinc-daily-but-it-looks-like-you-should-take-only-40-milligrams-per-day-is-it-ok-to-continue-what-are-the-consequences-of-too-much-zinc/\">https://www.nutritionletter.tufts.edu/ask-experts/q-i-take-50-milligrams-of-zinc-daily-but-it-looks-like-you-should-take-only-40-milligrams-per-day-is-it-ok-to-continue-what-are-the-consequences-of-too-much-zinc/</a>"
                     ],
                     "guid": "c]yfBFnV`h",
@@ -781,17 +801,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Early time-restricted feeding (eTRF) is a form of IF where&nbsp;{{c1::you only eat early in the day}}.",
-                        ""
-                    ],
-                    "guid": "ctET.|~N<2",
-                    "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "A human, 5-week study of time-restricted fasting compared early and midday eating window.<br><br>eTRF participants had to eat in an {{c3::8}} hour window from between {{c4::6am to 3pm}}<br>mTRF participants had to eat in an {{c3::8}} hour window from between {{c4::11am to 8pm}}<br><br>{{c1::eTRF}} improved {{c2::insulin sensitivity}} and reduced {{c2::inflammation}}; {{c1::mTRF}} did not.",
+                        "<u>Intermittent Fasting Research:</u> <br>A human, 5-week study of time-restricted fasting compared early and midday eating window.<br><br>eTRF participants had to eat in an {{c3::8}} hour window from between {{c4::6am to 3pm}}<br>mTRF participants had to eat in an {{c3::8}} hour window from between {{c4::11am to 8pm}}<br><br>{{c1::eTRF}} improved {{c2::insulin sensitivity}} and reduced {{c2::inflammation}}; {{c1::mTRF}} did not.",
                         "<b>Study:<br><br></b><i>Randomized controlled trial for time-restricted eating in healthy volunteers without obesity</i>"
                     ],
                     "guid": "BuM6[`9hEG",
@@ -801,7 +811,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "For preventing&nbsp;{{c1::getting infected}}, a&nbsp;{{c2::respirator (N95, KN95, FFP2)}} mask&nbsp;<i>slightly</i>&nbsp;beats&nbsp;{{c2::surgical}} masks, and&nbsp;{{c2::cloth}} had no measurable effect, but is probably better than nothing.",
+                        "<u>Mask Research:</u><br>For preventing&nbsp;{{c1::getting infected}}, a&nbsp;{{c2::respirator (N95, KN95, FFP2)}} mask&nbsp;<i>slightly</i>&nbsp;beats&nbsp;{{c2::surgical}} masks, and&nbsp;{{c2::cloth}} had no measurable effect, but is probably better than nothing.",
                         "<div><div><div><div><img src=\"paste-455e59eaa310ac452fd28884eedca26ac101bb27.jpg\"><br></div></div></div></div>"
                     ],
                     "guid": "ne/YX;U84<",
@@ -811,7 +821,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "For preventing&nbsp;{{c1::getting infected}}, studies that show respirator masks&nbsp;<i>massively&nbsp;</i>beating surgical masks involve&nbsp;{{c2::fit-tests (i.e. they achieve a tight seal)}} and&nbsp;{{c3::short-term use}}, neither of which are realistic in most cases; in reality the difference is {{c4::small}}.",
+                        "<u>Mask Research:</u><br>For preventing&nbsp;{{c1::getting infected}}, studies that show respirator masks&nbsp;<i>massively&nbsp;</i>beating surgical masks involve&nbsp;{{c2::fit-tests (i.e. they achieve a tight seal)}} and&nbsp;{{c3::short-term use}}, neither of which are realistic in most cases; in reality the difference is {{c4::small}}.",
                         "<img src=\"paste-6159b408c3e085f31f77e3f5fe95739258cb27fd.jpg\"><br><br><img src=\"paste-d074f7f53030f0a9cdccfe2bd9eb300deaa11cc7.jpg\">"
                     ],
                     "guid": "i)7;VBX$2o",
@@ -821,7 +831,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "For preventing&nbsp;{{c1::infecting other people}},&nbsp;{{c2::cloth}} masks are&nbsp;{{c3::almost useless}}, whereas&nbsp;{{c2::surgical and respirator}} masks are both much better, reducing particle emmision by around {{c4::80%}}.",
+                        "<u>Mask Research:</u><br>For preventing&nbsp;{{c1::infecting other people}},&nbsp;{{c2::cloth}} masks are&nbsp;{{c3::almost useless}}, whereas&nbsp;{{c2::surgical and respirator}} masks are both much better, reducing particle emmision by around {{c4::80%}}.",
                         "<i><b>Paper Quote</b><br><br>Both surgical masks and unvented KN95 respirators, even without fit-testing, reduce the outward particle emission rates by 90% and 74% on average during speaking and coughing, respectively, compared to wearing no mask, corroborating their effectiveness at reducing outward emission.</i>"
                     ],
                     "guid": "o`Q3XWIVH_",
@@ -831,10 +841,80 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "People in the bottom third of sleep length have {{c1::3x}} the risk of cold infection as people in the top third.<br><br>People in the bottom third of sleep efficiency have {{c1::5x}} the risk of cold infection as people in the top third.<br><br>The tertiles for duration were: {{c2::&lt;7hrs, 7-8hrs, &gt;8hrs}}<br>For efficiency they were:&nbsp;{{c3::&lt;92%, 92-98%, &gt;98%}}",
+                        "<u>Cold Research:</u><br>People in the bottom third of sleep length have {{c1::3x}} the risk of cold infection as people in the top third.<br><br>People in the bottom third of sleep efficiency have {{c1::5x}} the risk of cold infection as people in the top third.<br><br>The tertiles for duration were: {{c2::&lt;7hrs, 7-8hrs, &gt;8hrs}}<br>For efficiency they were:&nbsp;{{c3::&lt;92%, 92-98%, &gt;98%}}",
                         "<b>Reference:<br></b><br><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2629403/\">Sleep Habits and Susceptibility to the Common Cold</a>"
                     ],
                     "guid": "k:cw581;HS",
+                    "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<u>Tree Research:&nbsp;</u><br>The hairlike ends of roots connect to {{c1::microscopic fungi}}, which form the connection network between trees. In return, the {{c1::fungi}} {{c2::consumes some of the sugar that trees photosynthesize from sunlight}}.&nbsp;",
+                        "Source: Do Trees Talk to Each Other?, Smithsonian,&nbsp;<a href=\"https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/\">https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/</a>"
+                    ],
+                    "guid": "bj{dw@uwDs",
+                    "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<u>Tree Research:&nbsp;</u><br>For young saplings who don't have enough sunlight to photosynthesize, they survive because big trees, including their parents, {{c1::pump sugar into their roots}} through the network.&nbsp;",
+                        "Source: Do Trees Talk to Each Other?, Smithsonian,&nbsp;<a href=\"https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/\">https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/</a>"
+                    ],
+                    "guid": "sArWO~r8k9",
+                    "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<u>Tree Research:&nbsp;</u><br>In addition to communicating through {{c2::chemicals and hormones}}, researchers have identified a {{c1::voltage-based}} signaling system that appears strikingly similar to animal nervous systems.&nbsp;",
+                        "Source: Do Trees Talk to Each Other?, Smithsonian,&nbsp;<a href=\"https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/\">https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/</a>"
+                    ],
+                    "guid": "nq{Cu1uR?x",
+                    "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<u>Tree Research:</u><br>What happens&nbsp;in the savannas of sub-Saharan Africa when a giraffe starts chewing acacia leaves?",
+                        "The tree notices the injury and emits a distress signal (ethylene gas). Upon detecting this gas, neighboring acacias start pumping tannins into their leaves. Lots of tannins can sicken or even kill large herbivores.&nbsp;<br><br>Now, giraffes browse into the wind so the gas doesn't reach the trees ahead of them!<br><br><i>This is a fun example of how trees can communicate through air as well as soil.&nbsp;<br></i><br>Source: Do Trees Talk to Each Other?, Smithsonian,&nbsp;<a href=\"https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/\">https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/</a>"
+                    ],
+                    "guid": "b,_>]bR.8E",
+                    "note_model_uuid": "21b3f150-4ff4-11ee-91f8-3718b8cd7e83",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<u>Tree Research:</u><br>What happens when elms and pines come under attack by leaf-eating caterpillars?",
+                        "They detect the caterpillar saliva on their leaves and release pheromones that attract parasitic wasps. The wasps lay their eggs inside the caterpillars, and the wasp larvae eat the caterpillars from the inside out.<br><br><i>(sorry babe, I had to include it xx)&nbsp;<br></i><br>Source: Do Trees Talk to Each Other?, Smithsonian,&nbsp;<a href=\"https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/\">https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/</a>"
+                    ],
+                    "guid": "Ku/j=kK0[&",
+                    "note_model_uuid": "21b3f150-4ff4-11ee-91f8-3718b8cd7e83",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<u>Tree Research:</u><br>Trees don't just share the sugar they photosynthesize; they also share nutrients {{c1::acquired through their roots}}, especially since bigger/older trees can have much deeper root systems.&nbsp;<br><br>Researchers were able to track this through {{c2::salmon nitrogen in carcasses left by bears}} in the Pacific Northwest.&nbsp; {{c2::Salmon nitrogen}} is easy to track because of its distinctive chemical signature. They tracked the salmon nitrogen as it was shared through the tree network.&nbsp;",
+                        "Source: Do Trees Talk to Each Other?, Smithsonian,&nbsp;<a href=\"https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/\">https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/</a>"
+                    ],
+                    "guid": "BK6U2k!!=4",
+                    "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<u>Tree Research:</u>&nbsp;<br>When the biggest, oldest trees are cut down in a forest, the {{c1::survival rate of younger trees}} is substantially diminished.<br><br>The older trees {{c2::give them nutrients}} and {{c2::receive + respond to their distress signals}} (including from hostile&nbsp;fungi which like to prey on young trees).&nbsp;",
+                        "Source: Do Trees Talk to Each Other?, Smithsonian,&nbsp;<a href=\"https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/\">https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/</a>"
+                    ],
+                    "guid": "sds]obbB&~",
                     "note_model_uuid": "f1472552-a79a-11ed-a724-4f7dd7fd8dd7",
                     "tags": []
                 }
@@ -1213,6 +1293,65 @@
             ],
             "type": 0,
             "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "21b3f150-4ff4-11ee-91f8-3718b8cd7e83",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{edit:Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{edit:Front}}"
+                }
+            ],
+            "type": 0
         }
     ],
     "notes": [
